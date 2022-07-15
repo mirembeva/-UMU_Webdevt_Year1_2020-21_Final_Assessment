@@ -2,6 +2,6 @@
 
  
  Website links
-# -allankyle.github.io/index.html
+# -https://www.allankyle.github.io/index.html
  
-# -allankyle.github.io/frontend masters/index.html
+# -https://www.allankyle.github.io/frontend masters/index.html
