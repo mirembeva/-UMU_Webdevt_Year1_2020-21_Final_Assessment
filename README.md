@@ -4,4 +4,4 @@
  Website links
 # -https://www.allankyle.github.io/index.html
  
-# -https://www.allankyle.github.io/frontend_masters/index.html
+# -https://www.allankyle.github.io/frontend%20masters/index.html
